@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @loroulora
-- 👀 I’m interested in Python, SQL
+- 👀 I’m interested in Python, SQL, Data Analyst
 - 🌱 I’m currently learning in university
 - 📫 How to reach me in TG @loroulora or ssnikitin7731@gmail.com
 
