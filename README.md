@@ -7,7 +7,7 @@
 ## Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-brightgreen?style=flat-square&logo=SQL)
-![Jupiter Notebook](https://img.shields.io/badge/-JupiterNotebook-white?style=flat-square&logo=JupiterNotebook)
+![Jupiter Notebook](https://img.shields.io/badge/-JupiterNotebook-orange?style=flat-square&logo=JupiterNotebook)
 ![Redash](https://img.shields.io/badge/-Redash-red?style=flat-square&logo=Redash)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-grey?style=flat-square&logo=ClickHouse)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
