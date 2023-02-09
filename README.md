@@ -7,10 +7,10 @@
 ## Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-brightgreen)
-![Jupiter Notebook](https://img.shields.io/badge/-Jupiter Notebook-white)
+![Jupiter Notebook](https://img.shields.io/badge/-JupiterNotebook-white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white)
-![GIT](https://img.shields.io/badge/-GIT-black)
+![GIT](https://img.shields.io/badge/-GIT-white)
 ![Excel](https://img.shields.io/badge/-EXCEL-brightgreen)
 ![Pandas](https://img.shields.io/badge/-Pandas-white)
 ![SeaBorn](https://img.shields.io/badge/-SeaBorn-brightblue)
