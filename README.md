@@ -7,16 +7,15 @@
 ## Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-brightgreen?style=flat-square&logo=SQL)
-![Jupiter Notebook](https://img.shields.io/badge/-JupiterNotebook-orange?style=flat-square&logo=JupiterNotebook)
-![Redash](https://img.shields.io/badge/-Redash-red?style=flat-square&logo=Redash)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-grey?style=flat-square&logo=ClickHouse)
+![Jupiter Notebook](https://img.shields.io/badge/-JupiterNotebook-white?style=flat-square&logo=JupiterNotebook)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-white?style=flat-square&logo=ClickHouse)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
 ![GIT](https://img.shields.io/badge/-GIT-white?style=flat-square&logo=GIT)
 ![Excel](https://img.shields.io/badge/-EXCEL-brightgreen?style=flat-square&logo=Excel)
-![Pandas](https://img.shields.io/badge/-Pandas-white?style=flat-square&logo=Pandas)
-![SeaBorn](https://img.shields.io/badge/-SeaBorn-blue?style=flat-square&logo=SeaBorn)
-![NumPy](https://img.shields.io/badge/-NumPy-white?style=flat-square&logo=NumPy)
-![SciPy](https://img.shields.io/badge/-SciPy-white?style=flat-square&logo=SciPy)
+![Pandas](https://img.shields.io/badge/-Pandas-brightblue?style=flat-square&logo=Pandas)
+![SeaBorn](https://img.shields.io/badge/-SeaBorn-brightblue?style=flat-square&logo=SeaBorn)
+![NumPy](https://img.shields.io/badge/-NumPy-brightblue?style=flat-square&logo=NumPy)
+![SciPy](https://img.shields.io/badge/-SciPy-brightblue?style=flat-square&logo=SciPy)
 
 
 ## We can meet in:
