@@ -6,6 +6,17 @@
 
 ## Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![SQL]
+![Jupiter Notebook]
+![ClickHouse]
+![PostgreSQL]
+![GIT]
+![]
+![Pandas]
+![SeaBorn]
+![NumPy]
+![SciPy]
+
 
 ## We can meet in:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram)](https://t.me/loroulora)
