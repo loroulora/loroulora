@@ -6,16 +6,16 @@
 
 ## Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![SQL]
-![Jupiter Notebook]
-![ClickHouse]
-![PostgreSQL]
-![GIT]
-![]
-![Pandas]
-![SeaBorn]
-![NumPy]
-![SciPy]
+![SQL](https://img.shields.io/badge/-SQL-brightgreen)
+![Jupiter Notebook](https://img.shields.io/badge/-Jupiter Notebook-white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white)
+![GIT](https://img.shields.io/badge/-GIT-black)
+![Excel](https://img.shields.io/badge/-EXCEL-brightgreen)
+![Pandas](https://img.shields.io/badge/-Pandas-white)
+![SeaBorn](https://img.shields.io/badge/-SeaBorn-brightblue)
+![NumPy](https://img.shields.io/badge/-NumPy-white)
+![SciPy](https://img.shields.io/badge/-SciPy-white)
 
 
 ## We can meet in:
