@@ -20,7 +20,7 @@
 
 
 ## We can meet in:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram)](https://t.me/loroulora)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/loroulora)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-white?style=flat-square&logo=GMAIL)](https://mail.google.com/mail/u/0/#inbox)
 
 <!---
