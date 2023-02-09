@@ -4,7 +4,7 @@
 - Готов к сотрудничеству 🤝
 
 Languages and tools:
-![Python](https://img.shields.io/badge/-Python-brightgreen?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
 
 We can meet in:
 [![Telegram]https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram](https:t.me/loroulora)
