@@ -12,10 +12,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
 ![GIT](https://img.shields.io/badge/-GIT-white?style=flat-square&logo=GIT)
 ![Excel](https://img.shields.io/badge/-EXCEL-brightgreen?style=flat-square&logo=Excel)
-![Pandas](https://img.shields.io/badge/-Pandas-brightblue?style=flat-square&logo=Pandas)
-![SeaBorn](https://img.shields.io/badge/-SeaBorn-brightblue?style=flat-square&logo=SeaBorn)
-![NumPy](https://img.shields.io/badge/-NumPy-brightblue?style=flat-square&logo=NumPy)
-![SciPy](https://img.shields.io/badge/-SciPy-brightblue?style=flat-square&logo=SciPy)
+![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat-square&logo=Pandas)
+![SeaBorn](https://img.shields.io/badge/-SeaBorn-blue?style=flat-square&logo=SeaBorn)
+![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=NumPy)
+![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat-square&logo=SciPy)
 
 
 ## We can meet in:
