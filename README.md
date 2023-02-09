@@ -5,7 +5,7 @@
 
 
 We can meet in:
-[![Telegram]https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram](https:t.me/loroulora)
+[![Telegram]https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram]](https:t.me/loroulora)
 
 <!---
 loroulora/loroulora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
