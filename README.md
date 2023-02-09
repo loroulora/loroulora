@@ -21,7 +21,7 @@
 
 ## We can meet in:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram)](https://t.me/loroulora)
-[![GMAIL](https://img.shields.io/badge/-GMAIL-white?style=flat-square&logo=GMAIL)
+[![GMAIL](https://img.shields.io/badge/-GMAIL-white?style=flat-square&logo=GMAIL)](https://mail.google.com/mail/u/0/#inbox)
 
 <!---
 loroulora/loroulora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
