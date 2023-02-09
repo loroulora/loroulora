@@ -10,7 +10,7 @@
 ![Jupiter Notebook](https://img.shields.io/badge/-JupiterNotebook-orange?style=flat-square&logo=JupiterNotebook)
 ![Redash](https://img.shields.io/badge/-Redash-red?style=flat-square&logo=Redash)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-grey?style=flat-square&logo=ClickHouse)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf?style=flat-square&logo=PostgreSQL)
 ![GIT](https://img.shields.io/badge/-GIT-white?style=flat-square&logo=GIT)
 ![Excel](https://img.shields.io/badge/-EXCEL-brightgreen?style=flat-square&logo=Excel)
 ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat-square&logo=Pandas)
