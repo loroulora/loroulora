@@ -17,7 +17,7 @@
 ![SeaBorn](https://img.shields.io/badge/-SeaBorn-blue?style=flat-square&logo=SeaBorn)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=NumPy)
 ![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat-square&logo=SciPy)
-
+![MySQL](https://img.shields.io/badge/-MySQL-brightgreen?style=flat-square&logo=MySQL)
 
 ## We can meet in:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/loroulora)
