@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-brightgreen?style=flat-square&logo=MySQL)
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau)
 ![PySpark](https://img.shields.io/badge/-PySpark-blue?style=flat-square&logo=PySpark)
-![SparkSQL](https://img.shields.io/badge/-SparkSQL-blue?style=flat-square&logo=SparkSQL)
+![SparkSQL](https://img.shields.io/badge/-SparkSQL-orange?style=flat-square&logo=SparkSQL)
 
 ## We can meet in:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/loroulora)
