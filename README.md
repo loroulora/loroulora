@@ -1,6 +1,6 @@
 ##
 - Привет, меня зовут Сергей Никитин, @loroulora
-- 👀 Я занимаюсь аналитикой данных  📈, также изучаю Python, SQL
+- 👀 Я занимаюсь аналитикой данных  📈 и антифрода аналитикой, также изучаю Python, SQL
 - 📫 Вы можете найти меня в Тг @loroulora или ssnikitin7731@gmail.com
 - Готов к сотрудничеству 🤝
 
@@ -19,6 +19,8 @@
 ![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat-square&logo=SciPy)
 ![MySQL](https://img.shields.io/badge/-MySQL-brightgreen?style=flat-square&logo=MySQL)
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau)
+![PySpark](https://img.shields.io/badge/-PySpark-blue?style=flat-square&logo=PySpark)
+
 
 ## We can meet in:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/loroulora)
